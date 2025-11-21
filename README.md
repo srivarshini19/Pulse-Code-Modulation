@@ -1,10 +1,10 @@
-# Pulse-Code-Modulation
+# Pulse-Code-Modulation & Delta-Modulation
 # Aim
 Write a simple Python program for the modulation and demodulation of PCM, and DM.
 # Tools required
 Python IDE with Numpy and Scipy
 # Program
-# Pulse-code-modulation
+# Pulse-Code-Modulation
 ```
 #PCM
 import numpy as np
