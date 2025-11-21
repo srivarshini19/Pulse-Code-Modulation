@@ -119,7 +119,7 @@ filtered_signal = low_pass_filter(demodulated_signal, cutoff_freq=20, fs=fs)
 # Plotting the Results
 plt.figure(figsize=(12, 6))
 plt.subplot(3, 1, 1)
-plt.plot(t, message_signal, label='Original Signal', linewidth=1)
+plt.plot(t, message_signal, label='Original Signal', linewidth=1) 
 plt.legend()
 plt.grid()
 plt.subplot(3, 1, 2)
